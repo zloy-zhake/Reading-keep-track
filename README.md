@@ -63,5 +63,3 @@
 | 2016 | | The Long Cosmos // Соавтор: Стивен Бакстер | | |
 
 Источник списка: https://fantlab.ru/autor63
-
-Источник списка: https://fantlab.ru/autor63
