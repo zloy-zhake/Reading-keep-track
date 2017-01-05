@@ -1,6 +1,3 @@
-# Terry-Pratchett-keep-track
-"Гитовский" способ отслеживать прогресс чтения. Попытка 0.
-
 Легенда:
 - :white_check_mark: - Прочитано.
 - :hourglass_flowing_sand: - Читается.
